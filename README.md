@@ -7,4 +7,4 @@ about this effort please join the IRC channel on EFnet.
 
 ## Contributing
 
-TBD
+(Contributing)[Contributing.md]
